@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-bg-color-changer/static/css/main.989cf86a.css",
+    "main.css": "/react-bg-color-changer/static/css/main.016514d1.css",
     "main.js": "/react-bg-color-changer/static/js/main.92b0e141.js",
     "static/js/453.48b3ce85.chunk.js": "/react-bg-color-changer/static/js/453.48b3ce85.chunk.js",
     "index.html": "/react-bg-color-changer/index.html",
-    "main.989cf86a.css.map": "/react-bg-color-changer/static/css/main.989cf86a.css.map",
+    "main.016514d1.css.map": "/react-bg-color-changer/static/css/main.016514d1.css.map",
     "main.92b0e141.js.map": "/react-bg-color-changer/static/js/main.92b0e141.js.map",
     "453.48b3ce85.chunk.js.map": "/react-bg-color-changer/static/js/453.48b3ce85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.989cf86a.css",
+    "static/css/main.016514d1.css",
     "static/js/main.92b0e141.js"
   ]
 }
